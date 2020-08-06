@@ -27,8 +27,8 @@ Add me on discord as **Azurethi#0789** or from on the **[STEM server](https://di
 
 ---
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Azurethi&show_icons=true&count_private=true&hide=stars&theme=great-gatsby">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azurethi&theme=great-gatsby&layout=compact">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Azurethi&show_icons=true&count_private=true&hide=stars">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azurethi&layout=compact">
 
 ---
 ### Languages, Tools & Environments:
