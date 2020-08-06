@@ -17,7 +17,7 @@ Add me on discord as **Azurethi#0789** or from on the **[STEM server](https://di
 - A networking community for STEM students & professionals alike.
 
 <img src="https://avatars1.githubusercontent.com/u/69118550" width="30px"> [**Programming Community**](https://github.com/Programming-Community)
-- An open group of developers looking to improve eachothers skills & experiance through collab projects.
+- An open group of developers looking to improve eachothers skills & experience through collab projects.
 
 <img src="https://avatars0.githubusercontent.com/u/65873848" width="30px"> [**Collective R&D**](https://github.com/Collective-SB)
 - The Reseach & Development branch of *the COLLECTIVE*, a technocratic starbase faction.
