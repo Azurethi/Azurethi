@@ -11,6 +11,21 @@
 Add me on discord as **Azurethi#0789** or from on the **[STEM server](https://discord.com/invite/KRZwxzg)**.
 
 ---
+### Organisations
+
+<img src="https://avatars3.githubusercontent.com/u/67026819" width="30px"> [**STEM discord**](https://github.com/STEM-Network)
+- A networking community for STEM students & professionals alike.
+
+<img src="https://avatars1.githubusercontent.com/u/69118550" width="30px"> [**Programming Community**](https://github.com/Programming-Community)
+- An open group of developers looking to improve eachothers skills & experiance through collab projects.
+
+<img src="https://avatars0.githubusercontent.com/u/65873848" width="30px"> [**Collective R&D**](https://github.com/Collective-SB)
+- The Reseach & Development branch of *the COLLECTIVE*, a technocratic starbase faction.
+
+<img src="https://avatars1.githubusercontent.com/u/63423528?s=200&v=4" width="30px"> [**CYLON**](https://github.com/CylonSB)
+- A reasearch organisation focused on the intricacies of Starbases' in-game programming language "YOLOL"
+
+---
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Azurethi&show_icons=true&count_private=true&hide=stars&theme=great-gatsby">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azurethi&theme=great-gatsby&layout=compact">
