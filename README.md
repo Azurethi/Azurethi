@@ -1,7 +1,7 @@
 ### Hi there, I'm Lewis! (aka Azurethi)
 
 ## Developer, Physics student (MPhys) & Tutor.
----
+
 ### Projects of interest
 - **ISAN** [wip]: A Multilateration solution written in YOLOL for the Starbase game
 - **Ardunode**: A Node module for rapid-setup packet based serial comms with embedded devices.
@@ -38,8 +38,7 @@ Add me on discord as **Azurethi#0789** or from on the **[STEM server](https://di
 <img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
 
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/
-github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Express.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
 
 <img align="left" alt="Minecraft" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/minecraft/minecraft.png" />
