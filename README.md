@@ -3,9 +3,9 @@
 ## Developer, Physics student (MPhys) & Tutor.
 
 ### Projects of interest
-- **ISAN** [wip]: A Multilateration solution written in YOLOL for the Starbase game.
-- **Ardunode**: A Node module for rapid-setup packet based serial comms with embedded devices.
-- **Unix-Clock**: UNIX Timestamp clock hardware & firmware solution using arduino.
+- **ISAN** [wip - PUBLIC SOON]: A Multilateration solution written in YOLOL for the Starbase game.
+- [**Ardunode**](https://github.com/Azurethi/Ardunode): A Node module for rapid-setup packet based serial comms with embedded devices.
+- [**Unix-Clock**](https://github.com/Azurethi/Unix-clock): UNIX Timestamp clock hardware & firmware solution using arduino.
 
 ---
 Add me on discord as **Azurethi#0789** or from on the **[STEM server](https://discord.com/invite/KRZwxzg)**.
