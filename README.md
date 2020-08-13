@@ -8,7 +8,7 @@
 - [**Unix-Clock**](https://github.com/Azurethi/Unix-clock): UNIX Timestamp clock hardware & firmware solution using arduino.
 
 ---
-Add me on discord as **Azurethi#0789** or from on the **[STEM server](https://discord.com/invite/KRZwxzg)**.
+Add me on discord as **Azurethi#0789** or find me on the **[STEM server](https://discord.com/invite/KRZwxzg)**.
 
 ---
 ### Organisations
