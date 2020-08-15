@@ -3,7 +3,7 @@
 ## Developer, Physics student (MPhys) & Tutor.
 
 ### Projects of interest
-- **ISAN** [wip - PUBLIC SOON]: A Multilateration solution written in YOLOL for the Starbase game.
+- [**ISAN**](https://github.com/Collective-SB/ISAN): A Multilateration solution written in YOLOL for the Starbase game.
 - [**Ardunode**](https://github.com/Azurethi/Ardunode): A Node module for rapid-setup packet based serial comms with embedded devices.
 - [**Unix-Clock**](https://github.com/Azurethi/Unix-clock): UNIX Timestamp clock hardware & firmware solution using arduino.
 
