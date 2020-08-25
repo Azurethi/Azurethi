@@ -29,7 +29,7 @@ Add me on discord as **Azurethi#0789** or find me on the **[STEM server](https:/
 ---
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Azurethi&show_icons=true&count_private=true&hide=stars">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azurethi&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azurethi">
 
 ---
 ### Languages, Tools & Environments:
