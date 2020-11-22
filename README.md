@@ -6,7 +6,11 @@
 - [**ISAN**](https://github.com/Collective-SB/ISAN): A Multilateration solution written in YOLOL for the Starbase game.
 - [**Ardunode**](https://github.com/Azurethi/Ardunode): A Node module for rapid-setup packet based serial comms with embedded devices.
 - [**Unix-Clock**](https://github.com/Azurethi/Unix-clock): UNIX Timestamp clock hardware & firmware solution using arduino.
-- [**Snasm**](https://github.com/Azurethi/Snasm): The build up to the classic Snake game written in x86 assembly [WIP]
+- [**Snasm**](https://github.com/Azurethi/Snasm): The build up to the classic Snake game written in ~~x86~~ ARMv6 assembly [WIP]
+- **MCB**: A Minecraft bot for simple automation (Mining & Crafting) written in C <sup>1</sup> 
+- **ALTROUTER 2**: An account switching proxy for Minecraft, also written in C <sup>1</sup>     [_LATEST PROJECT_]
+
+<sup>1</sup><sub>These projects are currently private, viewable on request.</sub>
 
 ---
 Add me on discord as **Azurethi#0789** or find me on the **[STEM server](https://discord.com/invite/KRZwxzg)**.
