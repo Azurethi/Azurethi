@@ -8,7 +8,7 @@
 - [**Unix-Clock**](https://github.com/Azurethi/Unix-clock): UNIX Timestamp clock hardware & firmware solution using arduino.
 - [**Snasm**](https://github.com/Azurethi/Snasm): The build up to the classic Snake game written in ~~x86~~ ARMv6 assembly [WIP]
 - **MCB**: A Minecraft bot for simple automation (Mining & Crafting) written in C <sup>1</sup> 
-- **ALT-ROUTER**: An account switching proxy for Minecraft, also written in C <sup>1</sup>     [_LATEST PROJECT_]
+- **ALT-ROUTER**: An account switching proxy for Minecraft, written in C++ <sup>1</sup>     [_LATEST PROJECT_]
 
 <sup>1</sup><sub>These projects are currently private, viewable on request.</sub>
 
