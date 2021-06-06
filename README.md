@@ -1,9 +1,10 @@
 ### Hi there, I'm Lewis! (aka Azurethi)
 
-## Developer, Physics student (MPhys) & Tutor.
+## Developer, Physics graduate & Tutor.
 
 ### Projects of interest <img src="https://komarev.com/ghpvc/?username=Azurethi&color=orange" align="right">
 - [**ISAN**](https://github.com/Collective-SB/ISAN): A Multilateration solution written in YOLOL for the Starbase game.
+- [**Yimp**](https://github.com/Azurethi/Yimp): A custom toolchain for yolol projects, able to import into starbase
 - [**Yazur**](https://github.com/Azurethi/Yazur): A clientside YOLOL interpreter with multi-chip support for testing out planned starbase ideas.
 - [**Ardunode**](https://github.com/Azurethi/Ardunode): A Node module for rapid-setup packet based serial comms with embedded devices.
 - [**Unix-Clock**](https://github.com/Azurethi/Unix-clock): UNIX Timestamp clock hardware & firmware solution using arduino.
@@ -14,7 +15,7 @@
 <sup>1</sup><sub>These projects are currently private, viewable on request.</sub>
 
 ---
-Add me on discord as **Azurethi#0789** or find me on the **[STEM server](https://discord.com/invite/KRZwxzg)**. 
+Add me on discord as **Azurethi#0789** or email at lewis.mcdermid@outlook.com. 
 
 ---
 ### Organisations
