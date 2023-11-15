@@ -3,6 +3,9 @@
 ## Developer, Physics graduate & Tutor.
 
 ### Projects of interest <img src="https://komarev.com/ghpvc/?username=Azurethi&color=orange" align="right">
+- **keyb**: A custom keyboard hook application for dev on windows <sup>1</sup> 
+- **prec**: A custom C pre-processor <sup>1</sup> 
+- **c**: Useful common C things <sup>1</sup> 
 - [**ISAN**](https://github.com/Collective-SB/ISAN): A Multilateration solution written in YOLOL for the Starbase game.
 - [**Yimp**](https://github.com/Azurethi/Yimp): A custom toolchain for yolol projects, able to import into starbase
 - [**Yazur**](https://github.com/Azurethi/Yazur): A clientside YOLOL interpreter with multi-chip support for testing out planned starbase ideas.
@@ -10,7 +13,7 @@
 - [**Unix-Clock**](https://github.com/Azurethi/Unix-clock): UNIX Timestamp clock hardware & firmware solution using arduino.
 - [**Snasm**](https://github.com/Azurethi/Snasm): The build up to the classic Snake game written in ~~x86~~ ARMv6 assembly [WIP]
 - **MCB**: A Minecraft bot for simple automation (Mining & Crafting) written in C <sup>1</sup> 
-- **ALT-ROUTER**: An account switching proxy for Minecraft, written in C++ <sup>1</sup>     [_LATEST PROJECT_]
+- **ALT-ROUTER**: An account switching proxy for Minecraft, written in C++ <sup>1</sup>
 
 <sup>1</sup><sub>These projects are currently private, viewable on request.</sub>
 
