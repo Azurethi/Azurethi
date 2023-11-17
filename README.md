@@ -5,7 +5,7 @@
 ### Projects of interest <img src="https://komarev.com/ghpvc/?username=Azurethi&color=orange" align="right">
 - **keyb**: A custom keyboard hook application for dev on windows <sup>1</sup> 
 - **prec**: A custom C pre-processor <sup>1</sup> 
-- **c**: Useful common C things <sup>1</sup> 
+- **kc**: Useful common C & K things <sup>1</sup>
 - [**ISAN**](https://github.com/Collective-SB/ISAN): A Multilateration solution written in YOLOL for the Starbase game.
 - [**Yimp**](https://github.com/Azurethi/Yimp): A custom toolchain for yolol projects, able to import into starbase
 - [**Yazur**](https://github.com/Azurethi/Yazur): A clientside YOLOL interpreter with multi-chip support for testing out planned starbase ideas.
