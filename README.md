@@ -1,6 +1,6 @@
 ### Hi there, I'm Lewis! (aka Azurethi)
 
-## Developer, Physics graduate & Tutor.
+## Software Engineer, Physicist & Tutor.
 
 ### Projects of interest <img src="https://komarev.com/ghpvc/?username=Azurethi&color=orange" align="right">
 - **keyb**: A custom keyboard hook application for dev on windows <sup>1</sup> 
@@ -18,7 +18,14 @@
 <sup>1</sup><sub>These projects are currently private, viewable on request.</sub>
 
 ---
-Add me on discord as **Azurethi#0789** or email at lewis.mcdermid@outlook.com. 
+
+Discord: [**Azurethi#0789**](https://discord.com/users/434711871061491716)
+
+Work emails: lmcdermid@kx.com    lmcdermid@firstderivatives.com
+
+LinkedIn: [https://www.linkedin.com/in/azurethi](https://www.linkedin.com/in/azurethi/)
+
+Personal email (typically full of spam): lewis.mcdermid@outlook.com
 
 ---
 ### Organisations
