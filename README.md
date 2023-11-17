@@ -23,7 +23,9 @@ Discord: [**Azurethi#0789**](https://discord.com/users/434711871061491716)
 
 Work emails: lmcdermid@kx.com    lmcdermid@firstderivatives.com
 
-LinkedIn: [https://www.linkedin.com/in/azurethi](https://www.linkedin.com/in/azurethi/)
+LinkedIn: [azurethi](https://www.linkedin.com/in/azurethi/)
+
+Work Gitlab: [lmcdermid](https://gitlab.com/lmcdermid)
 
 Personal email (typically full of spam): lewis.mcdermid@outlook.com
 
