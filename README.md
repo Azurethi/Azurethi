@@ -2,6 +2,8 @@
 
 ## Software Engineer, Physicist & Tutor.
 
+[Here from LinkedIn? About me is here!](statement.md)
+
 ### Projects of interest <img src="https://komarev.com/ghpvc/?username=Azurethi&color=orange" align="right">
 - **keyb**: A custom keyboard hook application for dev on windows <sup>1</sup> 
 - **prec**: A custom C pre-processor <sup>1</sup> 
