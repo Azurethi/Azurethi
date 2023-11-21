@@ -5,14 +5,14 @@
 [Here from LinkedIn? About me is here!](statement.md)
 
 ### Projects of interest
-- **keyb**: A custom keyboard hook application for dev on windows <sup>1</sup> <img src="https://img.shields.io/badge/private-wip-orange" align="right">
-- **life**: A personal "life dashboard" android app. Finance stats/habit tracking/alarms/reminders/natural language interface <sup>1</sup> <img src="https://img.shields.io/badge/private-wip-orange" align="right">
-- **prec**: A custom C pre-processor <sup>1</sup> <img src="https://img.shields.io/badge/private-planning-blue" align="right">
-- **os**: An abstraction layer over Linux & Windows specific API calls for more OS independent C <sup>1</sup> <img src="https://img.shields.io/badge/public_soon-ongoing-purple" align="right">
+- **keyb**: A custom keyboard hook application. <sup>1</sup> <img src="https://img.shields.io/badge/private-wip-orange" align="right">
+- **life**: A personal "life dashboard" flutter app. <sup>1</sup> <img src="https://img.shields.io/badge/private-wip-orange" align="right">
+- **prec**: A custom C pre-processor. <sup>1</sup> <img src="https://img.shields.io/badge/private-planning-blue" align="right">
+- **os**: An abstraction layer over Linux & Windows C apis. <sup>1</sup> <img src="https://img.shields.io/badge/public_soon-ongoing-purple" align="right">
 - **kc**: Useful common C & K things <sup>1</sup> <img src="https://img.shields.io/badge/public_soon-ongoing-purple" align="right">
 - [**ISAN**](https://github.com/Collective-SB/ISAN): A Multilateration solution written in YOLOL for the Starbase game. <img src="https://img.shields.io/badge/done-green" align="right">
 - [**Yimp**](https://github.com/Azurethi/Yimp): A custom toolchain for yolol projects, able to import into starbase. <img src="https://img.shields.io/badge/done-green" align="right">
-- [**Yazur**](https://github.com/Azurethi/Yazur): A clientside YOLOL interpreter with multi-chip support for testing out planned starbase ideas. <img src="https://img.shields.io/badge/done-green" align="right">
+- [**Yazur**](https://github.com/Azurethi/Yazur): A clientside YOLOL interpreter with multi-chip support. <img src="https://img.shields.io/badge/done-green" align="right">
 - [**Ardunode**](https://github.com/Azurethi/Ardunode): A Node module for rapid-setup packet based serial comms with embedded devices. <img src="https://img.shields.io/badge/done-green" align="right">
 - [**Unix-Clock**](https://github.com/Azurethi/Unix-clock): UNIX Timestamp clock hardware & firmware solution using arduino. <img src="https://img.shields.io/badge/done-green" align="right">
 - [**Snasm**](https://github.com/Azurethi/Snasm): The build up to the classic Snake game written in ~~x86~~ ARMv6 assembly. <img src="https://img.shields.io/badge/stale-red" align="right">
