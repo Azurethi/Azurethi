@@ -31,12 +31,6 @@
 ---
 ### Organisations
 
-<img src="https://avatars3.githubusercontent.com/u/67026819" width="30px"> [**STEM discord**](https://github.com/STEM-Network)
-- A networking community for STEM students & professionals alike.
-
-<img src="https://avatars1.githubusercontent.com/u/69118550" width="30px"> [**Programming Community**](https://github.com/Programming-Community)
-- An open group of developers looking to improve eachothers skills & experience through collab projects.
-
 <img src="https://avatars0.githubusercontent.com/u/65873848" width="30px"> [**Collective R&D**](https://github.com/Collective-SB)
 - The Reseach & Development branch of *the COLLECTIVE*, a technocratic starbase faction.
 
