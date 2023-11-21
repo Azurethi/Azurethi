@@ -7,6 +7,7 @@
 ### Projects of interest
 - **keyb**: A custom keyboard hook application. <sup>1</sup> <img src="https://img.shields.io/badge/private-wip-orange" align="right">
 - **life**: A personal "life dashboard" flutter app. <sup>1</sup> <img src="https://img.shields.io/badge/private-wip-orange" align="right">
+- **yolol-ide**: A VS Code extension adding yolol language support & tools. <sup>1</sup> <img src="https://img.shields.io/badge/private-wip-orange" align="right">
 - **prec**: A custom C pre-processor. <sup>1</sup> <img src="https://img.shields.io/badge/private-planning-blue" align="right">
 - **os**: An abstraction layer over Linux & Windows C apis. <sup>1</sup> <img src="https://img.shields.io/badge/public_soon-ongoing-purple" align="right">
 - **kc**: Useful common C & K things <sup>1</sup> <img src="https://img.shields.io/badge/public_soon-ongoing-purple" align="right">
