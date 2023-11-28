@@ -6,7 +6,7 @@ As a software engineer often described as a "Jack of all trades," my expertise s
 
 ## Professional Milestones:
 
-- Developed a dockerized test environment deployment tool at KX that reduces hours of setup seconds. This significantly accelerated all team members ability to test and iterate on new features.
+- Developed a dockerized test environment deployment tool at KX that reduces hours of setup to seconds. This significantly accelerated all team members ability to test and iterate on new features.
 
 - Quickly ramped up on an unfamiliar C codebase to tackle critical memory allocation and leak issues, enhancing system stability and alleviating team stress under tight deadlines.
 
