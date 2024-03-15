@@ -5,12 +5,12 @@
 [Here from LinkedIn? About me is here!](statement.md)
 
 ### Projects of interest
-- **keyb**: A custom keyboard hook application. <sup>1</sup> <img src="https://img.shields.io/badge/private-wip-orange" align="right">
+- [**keyb**](https://github.com/Azurethi/keyb): A custom keyboard hook application. <img src="https://img.shields.io/badge/ongoing-purple" align="right">
 - **life**: A personal "life dashboard" flutter app. <sup>1</sup> <img src="https://img.shields.io/badge/private-wip-orange" align="right">
 - **yolol-ide**: A VS Code extension adding yolol language support & tools. <sup>1</sup> <img src="https://img.shields.io/badge/private-wip-orange" align="right">
 - **prec**: A custom C pre-processor. <sup>1</sup> <img src="https://img.shields.io/badge/private-planning-blue" align="right">
-- **os**: An abstraction layer over Linux & Windows C apis. <sup>1</sup> <img src="https://img.shields.io/badge/public_soon-ongoing-purple" align="right">
-- **kc**: Useful common C & K things <sup>1</sup> <img src="https://img.shields.io/badge/public_soon-ongoing-purple" align="right">
+- **os**: An abstraction layer over Linux & Windows C apis. <sup>1</sup> <img src="https://img.shields.io/badge/private-ongoing-purple" align="right">
+- [**kc**](https://github.com/Azurethi/kc): Useful common C & K things <img src="https://img.shields.io/badge/ongoing-purple" align="right">
 - [**ISAN**](https://github.com/Collective-SB/ISAN): A Multilateration solution written in YOLOL for the Starbase game. <img src="https://img.shields.io/badge/done-green" align="right">
 - [**Yimp**](https://github.com/Azurethi/Yimp): A custom toolchain for yolol projects, able to import into starbase. <img src="https://img.shields.io/badge/done-green" align="right">
 - [**Yazur**](https://github.com/Azurethi/Yazur): A clientside YOLOL interpreter with multi-chip support. <img src="https://img.shields.io/badge/done-green" align="right">
