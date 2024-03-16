@@ -28,7 +28,7 @@
 - Work emails: lmcdermid@kx.com    lmcdermid@firstderivatives.com
 - LinkedIn: [azurethi](https://www.linkedin.com/in/azurethi/)
 - Work Gitlab: [lmcdermid](https://gitlab.com/lmcdermid)
-- Personal email (typically full of spam): lewis.mcdermid@outlook.com
+- Personal email: lewis.mcdermid@outlook.com
 
 ---
 ### Organisations
